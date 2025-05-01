@@ -17,7 +17,7 @@ where `<env_name>` is your name of choice for the conda environment.
 ## Using this repo
 The results for this project can be reproduced using the following steps:
 1. Clone this repo, navigate into the repo, and set up the conda environment as directed above.
-2. Download the 8 compressed data files at the links below and move them into the `data` directory.
+2. Download the followiing 8 data files and move them into the `data` directory.
    - mfcc_emotion_x: https://drive.google.com/file/d/1yjyQTQFSIRUK-zKI7B9H8iJQnqHW_tdk/view?usp=sharing
    - mfcc_emotion_y: https://drive.google.com/file/d/1nJuFBv6rC8XhUqFEQhLUO3Ha2zdesfZL/view?usp=sharing
    - mfcc_intensity_x: https://drive.google.com/file/d/1--bZ3jOVJUHnDEl2B2nbi7Ya3vlQY4fB/view?usp=sharing
